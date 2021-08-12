@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WAJEE 
-- 👀 I’m interested in ...becoming stack developer
-- 🌱 I’m currently learning ...stak
+- 👀 I’m interested in ...becoming full stack developer
+- 🌱 I’m currently learning ...stcak
 - 💞️ I’m looking to collaborate on ... reserch and development
 - 📫 How to reach me ...7006401797
 
